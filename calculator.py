@@ -1,5 +1,5 @@
 
-print("Basic Calculator...")
+print("Basic Calculator.....")
 print("Select operation:")
 print("1. Addition")
 print("2. Subtraction")
